@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React.js Express.js Node.js Golang**
 
-- 💬 Ask me about **Competitive Programming Golang GRPC**
+- 💬 Ask me about **Competitive Programming, Golang, GRPC**
 
 - 📫 How to reach me **olexyit@gmail.com**
 
