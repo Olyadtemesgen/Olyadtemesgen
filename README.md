@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olyadtemesgen" alt="olyadtemesgen" /></a> </p>
 
-- 🔭 I’m currently working on **Mama's Kitcken**
+- 🔭 I’m currently working on **Some Personal Projecs and interns on full stack**
 
-- 🌱 I’m currently learning **React.js Express.js Node.js**
+- 🌱 I’m currently learning **React.js Express.js Node.js Golang**
 
-- 💬 Ask me about **Competitive Programming**
+- 💬 Ask me about **Competitive Programming Golang GRPC**
 
 - 📫 How to reach me **olexyit@gmail.com**
 
-- ⚡ Fun fact **I am serious. Just Kidding**
+- ⚡ Fun fact **return nil;**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
