@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olyadtemesgen" alt="olyadtemesgen" /></a> </p>
 
-- 🔭 I’m currently working on **Some Personal Projecs and interns on full stack**
+- 🔭 I’m currently working on **Personal Projects in AI and full-stack software development freelancing**
 
-- 🌱 I’m currently learning **React.js Express.js Node.js Golang**
+- 🌱 I’m currently learning **Machine Learning, Microservices, Distributive System**
 
-- 💬 Ask me about **Competitive Programming, Golang, GRPC**
+- 💬 Ask me about **Python, Typescript, React, Competitive Programming, Golang, gRPC,**
 
-- 📫 How to reach me **olexyit@gmail.com**
+- 📫 How to reach me **olyadtemesgen1997@gmail.com**
 
 - ⚡ Fun fact **return nil;**
 
